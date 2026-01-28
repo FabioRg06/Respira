@@ -62,10 +62,10 @@ You can start developing by editing the files inside the **app** directory. This
 
 ## 📸 Screenshots
 
-![Home Screen](screenshots/home.jpeg)
-![New Thought](screenshots/new-thought.jpeg)
-![Thought Analysis](screenshots/thought-analysis.jpeg)
-![Chat](screenshots/chat.jpeg)
+<img src="screenshots/home.jpeg" alt="Home Screen" width="150" height="300">
+<img src="screenshots/new-thought.jpeg" alt="New Thought" width="150" height="300">
+<img src="screenshots/thought-analysis.jpeg" alt="Thought Analysis" width="150" height="300">
+<img src="screenshots/chat.jpeg" alt="Chat" width="150" height="300">
 
 ---
 
