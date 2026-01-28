@@ -1,8 +1,42 @@
-# Welcome to your Expo app 👋
+# Respira
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red) ![GitHub Last Commit](https://img.shields.io/github/last-commit/FabioRg06/respira)  ![GitHub Issues](https://img.shields.io/github/issues/FabioRg06/respira)  ![GitHub Forks](https://img.shields.io/github/forks/FabioRg06/respira?style=social)  ![GitHub Stars](https://img.shields.io/github/stars/FabioRg06/respira?style=social)
 
-## Get started
+**Respira** is an AI-powered mental health application designed to help users journal their thoughts, analyze emotions, and gain insights through empathetic AI-driven conversations. It promotes mindfulness and emotional well-being by providing personalized thought analysis and supportive chat features.
+
+---
+
+## 🚀 Technologies
+
+- **Frontend:** ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- **AI Model:** ![Gemini-2.5-Flash-Lite](https://img.shields.io/badge/Gemini--2.5--Flash--Lite-4285F4?style=for-the-badge&logo=google&logoColor=white)
+- **Database/Auth:** ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+- **Styling:** ![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) (Tailwind CSS for React Native)
+
+---
+
+## 📌 Features
+
+✅ AI-powered thought analysis with empathetic psychological insights.
+✅ Journaling for thoughts, triggers, and emotions.
+✅ Interactive chat for general mental health support.
+✅ Personalized summaries and thought history.
+✅ User authentication and data persistence with Supabase.
+✅ Cross-platform support (iOS, Android, Web) via Expo.
+✅ Haptic feedback and smooth animations for enhanced user experience.
+
+---
+
+## 📦 Installation and Setup
+
+### Prerequisites
+
+Make sure you have installed:
+
+- **Node.js** and **npm**
+- **Expo CLI** (install globally with `npm install -g @expo/cli`)
+
+### Frontend Setup (Expo/React Native)
 
 1. Install dependencies
 
@@ -22,18 +56,18 @@ In the output, you'll find options to open the app in a
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- [Web browser](https://docs.expo.dev/workflow/web/)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction) with Expo Router.
 
-## Get a fresh project
+## 📸 Screenshots
 
-When you're ready, run:
+![Home Screen](screenshots/home.jpeg)
+![New Thought](screenshots/new-thought.jpeg)
+![Thought Analysis](screenshots/thought-analysis.jpeg)
+![Chat](screenshots/chat.jpeg)
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
 ## Learn more
 
